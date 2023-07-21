@@ -1,4 +1,9 @@
-# Programming Language Translation
+University of Zagreb, Faculty of Electrical Engineering and Computing
+
+## Programming Language Translation
+
+##### Fani Sentinella-Jerbić, 2021
+
 
 Solved coding problems for the [Programming Language Translation](https://www.fer.unizg.hr/predmet/ppj) course at **FER**.
 
